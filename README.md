@@ -11,7 +11,7 @@ I'm a passionate developer who loves building cool things with code. I have expe
 ## 📫 Contact Me
 - GitHub: https://github.com/Sina2002F
 - LinkedIn: https://www.linkedin.com/in/sina-faraj-9b3619291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+- Email Address: sinafaraj91@gmail.com
 
 <!---
 Sina2002F/Sina2002F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
