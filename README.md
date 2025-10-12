@@ -13,7 +13,7 @@ I'm a passionate developer who loves building cool things with code. I have expe
 Here my connections:
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sina-faraj-9b3619291/?originalSubdomain=ir)" target="_blank">
+  <a href="https://www.linkedin.com/in/sina-faraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sinafaraj91@gmail.com">
