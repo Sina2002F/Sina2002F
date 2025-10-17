@@ -10,7 +10,7 @@ I'm a passionate developer who loves building cool things with code. I have expe
 
 ## 📞 Contact Me
 
-Here my connections:
+Reach me through-->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sina-faraj-9b3619291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bt1X5NqzWTbyT9vGvTSrIpA%3D%3D" target="_blank">
